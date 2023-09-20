@@ -1,0 +1,9 @@
+.card-rounded {
+    border-radius: 20px !important;
+    cursor: pointer;
+    color: #352504;
+}
+
+.card-bg {
+    background-color: #ffdc68 !important;
+}
